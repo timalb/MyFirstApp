@@ -5,6 +5,6 @@ package ru.timalbmar.firstApp;
  */
 public class Abracadabra {
     public static void main(String[] args) {
-        System.out.println("changed");
+        System.out.println("How it works?");
     }
 }
